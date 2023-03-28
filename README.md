@@ -1,4 +1,3 @@
 # odin-recipes
 My first Odin Project!
-Odin-recipes with HTML
-and everything I learned about it!
+Filipino Dish Recipes with Html Only so it looks odd coz no Css Included.
